@@ -158,13 +158,13 @@ window.UNITS = [
   status: "planned", estDur: "約 14 分", segWord: "小節",
   sections: [
     { t: 0, title: "兩個拒絕香菸的人" },
-    { t: 95, title: "改變的三層洋蔥：結果、過程、身分" },
-    { t: 205, title: "方向錯了：結果型習慣 vs. 身分型習慣" },
-    { t: 315, title: "驕傲是最強的內在動機" },
-    { t: 415, title: "雙面刃：「我就是不擅長」的陷阱" },
-    { t: 520, title: "每個行動都是一張選票" },
-    { t: 630, title: "兩步驟：決定成為誰，用小勝利證明" },
-    { t: 740, title: "行動實驗室：寫下今天與想成為的自己" }
+    { t: 144, title: "改變的三層洋蔥：結果、過程、身分" },
+    { t: 213, title: "方向錯了：結果型習慣 vs. 身分型習慣" },
+    { t: 295, title: "驕傲是最強的內在動機" },
+    { t: 393, title: "雙面刃：「我就是不擅長」的陷阱" },
+    { t: 519, title: "每個行動都是一張選票" },
+    { t: 651, title: "兩步驟：決定成為誰，用小勝利證明" },
+    { t: 710, title: "行動實驗室：寫下今天與想成為的自己" }
   ],
   formula: R`\hat p_n=\frac{\alpha+k}{\alpha+\beta+n}\qquad(\text{做到 }k\text{ 次}/\text{共 }n\text{ 天，先驗信念 }\mathrm{Beta}(\alpha,\beta))`,
   pre: [
