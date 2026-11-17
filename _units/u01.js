@@ -3,16 +3,16 @@
   title: "1% 的複利：為什麼小改變有大影響",
   hook: "每天只進步 1%，一年後會差多少？答案不是 3.65 倍。",
   tags: "邊際增益、複利、潛能高原、失望之谷、目標與系統",
-  status: "planned", estDur: "約 14 分", segWord: "小節",
+  status: "planned", estDur: "約 12 分", segWord: "小節",
   sections: [
     { t: 0, title: "一支百年平庸的車隊" },
-    { t: 100, title: "邊際增益的累積" },
-    { t: 205, title: "1.01³⁶⁵：複利的數學" },
-    { t: 310, title: "雙面刃：好習慣與壞習慣都會複利" },
-    { t: 410, title: "潛能高原與失望之谷" },
-    { t: 520, title: "目標的四個問題" },
-    { t: 630, title: "原子習慣是系統的最小單位" },
-    { t: 730, title: "行動實驗室：拆解你的第一個系統" }
+    { t: 103, title: "邊際增益的累積" },
+    { t: 210, title: "1.01³⁶⁵：複利的數學" },
+    { t: 295, title: "雙面刃：好習慣與壞習慣都會複利" },
+    { t: 358, title: "潛能高原與失望之谷" },
+    { t: 459, title: "目標的四個問題" },
+    { t: 539, title: "原子習慣是系統的最小單位" },
+    { t: 576, title: "行動實驗室：拆解你的第一個系統" }
   ],
   formula: R`x_n=x_0\,(1+r)^n,\qquad 1.01^{365}\approx 37.78,\qquad 0.99^{365}\approx 0.03`,
   pre: [
@@ -67,7 +67,7 @@
 </ol>` },
     { h: "〔研究怎麼說〕",
       b: `<ul>
-<li><b>Wood、Quinn、Kashy 2002</b>（JPSP）：日記研究發現，受試者每天約 43% 的行為是在相同情境下幾乎不假思索地重複，習慣占日常生活的比例很高。 <span class="tag">支持</span> <a href="https://doi.org/10.1037/0022-3514.83.6.1281" target="_blank" rel="noopener">來源</a></li>
+<li><b>Wood、Quinn、Kashy 2002</b>（JPSP）：兩項日記研究分別發現，受試者每天約 35% 與 43% 的行為是在相同情境下幾乎不假思索地重複，習慣占日常生活的比例很高。 <span class="tag">支持</span> <a href="https://doi.org/10.1037/0022-3514.83.6.1281" target="_blank" rel="noopener">來源</a></li>
 <li><b>Lally 等 2009</b>（European Journal of Social Psychology）：96 人追蹤 12 週，「自動化程度」隨重複次數上升，但曲線是前期快、後期趨緩的漸近線，達到平台的中位數約 66 天，個別差異從 18 到 254 天。 <span class="tag">補充</span> <a href="https://doi.org/10.1002/ejsp.674" target="_blank" rel="noopener">來源</a></li>
 <li><b>Locke 與 Latham 2002</b>（American Psychologist）：35 年目標設定研究顯示，具體且有挑戰性的目標確實能提升表現。書中「忘掉目標」是修辭上的強調，比較精確的說法是「目標定方向、系統帶來進步」。 <span class="tag">修正</span> <a href="https://doi.org/10.1037/0003-066X.57.9.705" target="_blank" rel="noopener">來源</a></li>
 <li><b>Ordóñez 等 2009</b>（Academy of Management Perspectives）：過窄、過度強調的目標會帶來視野窄化、冒險與作弊等副作用，呼應書中「目標的問題」。 <span class="tag">支持</span> <a href="https://doi.org/10.5465/amp.2009.37007999" target="_blank" rel="noopener">來源</a></li>
