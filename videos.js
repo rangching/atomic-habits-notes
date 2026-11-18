@@ -11,7 +11,7 @@ window.SERIES_TRAILER = "";  // 系列前導片 ID（延續型系列）
 window.VIDEO_LINKS = {
   u01: { youtube: "rc-uCuw9TXg", mp4: "", duration: "11:44", sections: [0, 103.3, 210.3, 294.9, 357.8, 459, 539.1, 576.1], noVoice: "", short: "" },
   u02: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
-  u03: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
+  u03: { youtube: "hptvWFdGi60", mp4: "", duration: "13:43", sections: [0, 13, 32.6, 125.6, 205, 301.2, 420.8, 485.2, 600, 688], noVoice: "", short: "" },
   u04: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u05: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u06: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
