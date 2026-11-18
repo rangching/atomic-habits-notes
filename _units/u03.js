@@ -6,13 +6,13 @@
   status: "planned", estDur: "約 14 分", segWord: "小節",
   sections: [
     { t: 0, title: "1898 年的迷籠與 12 號貓" },
-    { t: 105, title: "效果律：帶來滿足的行為會被重複" },
-    { t: 210, title: "大腦為什麼要建立習慣" },
-    { t: 315, title: "習慣迴圈的四個步驟" },
-    { t: 430, title: "問題階段與解決階段" },
-    { t: 530, title: "獎賞會教學：預測誤差的直覺" },
-    { t: 635, title: "四大法則與反向四法則總表" },
-    { t: 745, title: "行動實驗室：把一個習慣拆成四格" }
+    { t: 126, title: "效果律：帶來滿足的行為會被重複" },
+    { t: 205, title: "大腦為什麼要建立習慣" },
+    { t: 301, title: "習慣迴圈的四個步驟" },
+    { t: 421, title: "問題階段與解決階段" },
+    { t: 485, title: "獎賞會教學：預測誤差的直覺" },
+    { t: 600, title: "四大法則與反向四法則總表" },
+    { t: 688, title: "行動實驗室：把一個習慣拆成四格" }
   ],
   formula: R`V_{t+1}=V_t+\alpha\,(r_t-V_t)\qquad\Longrightarrow\qquad V_n=r\bigl(1-(1-\alpha)^n\bigr)`,
   pre: [
@@ -78,7 +78,7 @@
 <li><b>Thorndike 1898</b>（Psychological Review: Monograph Supplements）：迷籠實驗的原始專論，記錄動物逃脫時間隨試驗次數下降，是「效果律」的起點。 <span class="tag">支持</span> <a href="https://doi.org/10.1037/h0092987" target="_blank" rel="noopener">來源</a></li>
 <li><b>Anderson 1982</b>（Psychological Review）：技能學習理論說明，練習會把需要逐步思考的知識轉成可自動執行的程序，速度變快、占用的工作記憶變少，對應書中「習慣降低認知負荷」。 <span class="tag">支持</span> <a href="https://doi.org/10.1037/0033-295X.89.4.369" target="_blank" rel="noopener">來源</a></li>
 <li><b>Schultz、Dayan、Montague 1997</b>（Science）：猴子中腦多巴胺神經元的反應，像在計算「實際獎賞減去預期」的預測誤差；學會後，反應從獎賞本身移到預告獎賞的提示上。這是「提示會引發渴望」的神經基礎之一。 <span class="tag">補充</span> <a href="https://doi.org/10.1126/science.275.5306.1593" target="_blank" rel="noopener">來源</a></li>
-<li><b>Graybiel 2008</b>（Annual Review of Neuroscience）：基底核會把一連串動作「打包」成一個單位（chunking），由開頭與結尾的訊號啟動與收尾，說明習慣為何能整段自動跑完。 <span class="tag">補充</span> <a href="https://doi.org/10.1146/annurev.neuro.29.051605.112851" target="_blank" rel="noopener">來源</a></li>
+<li><b>Graybiel 2008</b>（Annual Review of Neuroscience）：基底核會把一連串動作「打包」成一個單位（chunking），整段可以當成一個整體啟動、自動跑完，說明習慣為何不必逐步思考。 <span class="tag">補充</span> <a href="https://doi.org/10.1146/annurev.neuro.29.051605.112851" target="_blank" rel="noopener">來源</a></li>
 <li><b>Wood 與 Rünger 2016</b>（Annual Review of Psychology）：心理學把習慣定義為「情境直接觸發反應」的記憶聯結；習慣養成後，即使獎賞貶值或目標改變，行為仍可能照跑。成熟的習慣不一定每次都經過「渴望」。 <span class="tag">修正</span> <a href="https://doi.org/10.1146/annurev-psych-122414-033417" target="_blank" rel="noopener">來源</a></li>
 </ul>` },
     { h: "〔理性檢查〕",
